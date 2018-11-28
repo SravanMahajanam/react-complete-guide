@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Creates the node_modules directory and adds teh required modules.
+Creates the node_modules directory and adds the required modules.
 
 ### `npm start`
 
